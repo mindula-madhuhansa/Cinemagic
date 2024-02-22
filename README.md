@@ -37,7 +37,3 @@ Discover movies!
 ### 🔍 Search
 
 ![search](./screenshots/search.png)
-
-## 🙏 Special Thanks
-
-**This project was completed with the help of [Disney Clone by Sonny Sangha](https://youtu.be/G6X6CnxBDI4).**
